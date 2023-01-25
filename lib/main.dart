@@ -99,9 +99,14 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
-            Text(
+            const Text(
               "This is from me to try only ... ",
 
+            ),
+            //Here I add to try
+            const Text(
+              "try try try and practice to what si going on here after writing "
+                  "this one ",
             ),
             Text(
               '$_counter',
