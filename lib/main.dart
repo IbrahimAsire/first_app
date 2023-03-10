@@ -103,7 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
               "This is from me to try only ... ",
             ),
             const Text(
-              "try try try and practice to what si going on here after writing "
+              "try try try and practice to what is going on here after writing "
                   "this one ",
             ),
             Text(
